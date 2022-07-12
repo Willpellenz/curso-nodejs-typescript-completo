@@ -1,1 +1,2 @@
-# curso-nodejs-typescript-completo
+initialize project
+#npm install
